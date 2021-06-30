@@ -1500,7 +1500,7 @@
 											"top": 532,
 											"width": 126,
 											"height": 26,
-											"text": "Membuka Paksa Pintu Gerbang",
+											"text": "Membuka Paksa Palang Parkir",
 											"wordWrap": true
 										},
 										{
@@ -3031,7 +3031,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Membuka Paksa Pintu Gerbang",
+					"name": "Membuka Paksa Palang Parkir",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
